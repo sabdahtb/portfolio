@@ -29,7 +29,7 @@ const Navbar = () => {
             alt=""
             height={"20"}
             width={"20"}
-            className="absolute top-9 right-10 cursor-pointer md:hidden"
+            className="absolute top-8 right-10 cursor-pointer md:hidden"
             onClick={() => setMenu(!menu)}
           />
         </div>
