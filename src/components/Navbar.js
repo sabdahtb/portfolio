@@ -16,7 +16,7 @@ const Navbar = () => {
     <div className="w-full px-5 md:px-10 py-5 text-white bg-hitam-0 fixed top-0 left-0">
       <div className="md:flex justify-between items-center">
         <img
-          src="/img/sabdalogo.png"
+          src="https://res.cloudinary.com/duohdrpvb/image/upload/v1646447595/sabdahtb/sabdalogo_fjiwcf.png"
           alt=""
           height={"30"}
           width={"120"}
@@ -25,7 +25,7 @@ const Navbar = () => {
         />
         <div>
           <img
-            src="/img/menu.png"
+            src="https://res.cloudinary.com/duohdrpvb/image/upload/v1646447606/sabdahtb/menu_o5mrfz.png"
             alt=""
             height={"20"}
             width={"20"}

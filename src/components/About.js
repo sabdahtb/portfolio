@@ -3,14 +3,14 @@ const About = () => {
     <div className="w-full pt-36 px-5 md:px-10 min-h-screen bg-gradient-to-t from-biru-0 to-abutua-0 text-white text-center">
       <div className="w-full flex justify-center">
         <img
-          src="/img/sabda.png"
+          src="https://res.cloudinary.com/duohdrpvb/image/upload/v1646447735/sabdahtb/sabda-min_rr8sjo.png"
           alt=""
           height={"300"}
           width={"300"}
           className="rounded-full border-4 border-white object-cover"
         />
       </div>
-      <div className="mt-10 font-body text-base italic text-body-0 tracking-wider">
+      <div className="pb-16 md:pb-0 mt-10 font-body text-base italic text-body-0 tracking-wider">
         <p>
           <span className="text-white font-semibold tracking-widest">
             Wellcome Everyone,{" "}

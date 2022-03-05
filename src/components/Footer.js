@@ -1,7 +1,12 @@
 const Footer = () => {
   return (
     <div className="px-5 md:px-10 pt-4 pb-10 bg-abumuda-0">
-      <img src="/img/sabdalogo.png" alt="" height={"20"} width={"80"} />
+      <img
+        src="https://res.cloudinary.com/duohdrpvb/image/upload/v1646447595/sabdahtb/sabdalogo_fjiwcf.png"
+        alt=""
+        height={"20"}
+        width={"80"}
+      />
       <p className="font-semibold text-xl text-emas-0 mt-1">Contact Me</p>
       <div className="text-sm text-putih-0 font-body tracking-wide">
         <p className="my-1">
